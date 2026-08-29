@@ -136,22 +136,4 @@ else:                       # 그렇지 않다면
 
 [<strong>구글 코랩<font size='2'>Google Colab</font>](https://colab.research.google.com/)</strong>에서 구글 계정만 있으면 브라우저에서 바로 파이썬 코드를 작성하고 실행할 수 있으며, 데이터 분석과 머신러닝에 최적화되어 있다.
 
-**비주얼 스튜디오 코드와 아나콘다 라이브러리**
 
-[<strong>비주얼 스튜디오 코드<font size='2'>Visual Studio Code</font>](https://code.visualstudio.com/)</strong>는 마이크로소프트에서 개발한 가볍고 강력한 소스 코드 편집기로, 파이썬 개발을 위한 풍부한 확장 기능을 제공한다.
-보통 **VS Code** 약칭으로 불린다.
-
-VS Code는 코드 작성 편집기로 파이썬을 실행하려면 파이썬 실행기 또한 자신의 컴퓨터에 설치해야 한다.
-파이썬 실행기는 다양한 방식으로 설치될 수 있으며, 여기서는
-데이터 과학과 머신러닝 분야에서 가장 많이 활용되는 라이브러리 중에 하나인
-[<strong>아나콘다<font size='2'>Anaconda</font>](https://www.anaconda.com/download)</strong>를 설치할 것을 추천한다.
-
-**비주얼 스튜디오 코드와 구글 코랩**
-
-VS Code 편집기에 대한 파이썬 실행기로 구글 코랩을 선택할 수 있도 있다.
-설치요령과 사용법은 [동영상](https://youtu.be/OZf60mJ__74?si=0-S-BAVBIAVXxY8d)를 참고한다.
-
-## 피드백
-
-이 강의노트의 내용에서 오류를 발견하거나, 관련 질문이 있다면 언제든지 [GitHub 저장소의 Issues 탭](https://github.com/codingalzi/code-workout-python/issues)을 이용해 주세요.
-여러분의 피드백은 더 좋은 내용을 만드는 데 큰 도움이 됩니다.
